@@ -43,6 +43,7 @@ cytoscape({
 
       { data: { id: 'Perl', name: 'Perl', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
       { data: { id: 'Python', name: 'Python', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
+      { data: { id: 'Flask', name: 'Flask', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
       { data: { id: 'JavaScript', name: 'JavaScript', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
       { data: { id: 'HTML', name: 'HTML', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
       { data: { id: 'CSS', name: 'CSS', weight: 90, faveColor: '#38AECC', faveShape: 'ellipse' } },
@@ -76,6 +77,7 @@ cytoscape({
 
       { data: { source: 'Programming', target: 'Perl', faveColor: '#b2462e', strength: 90 } },
       { data: { source: 'Programming', target: 'Python', faveColor: '#b2462e', strength: 90 } },
+      { data: { source: 'Programming', target: 'Flask', faveColor: '#b2462e', strength: 90 } },
       { data: { source: 'Programming', target: 'JavaScript', faveColor: '#b2462e', strength: 90 } },
       { data: { source: 'Programming', target: 'HTML', faveColor: '#b2462e', strength: 90 } },
       { data: { source: 'Programming', target: 'CSS', faveColor: '#b2462e', strength: 90 } },
